@@ -1,2 +1,22 @@
-# Algorithm-Notes
-My personal algorithm notes
+## Topics
+- [x] Dynamic Programming
+	- [x] Text Segmentation
+	- [x] Longest Increasing Subsequence 
+	- [x] Edit distance
+	- [x] Leetcode: 53, 97, 647
+- [ ] Backtracking
+	- [x] N-Queens (slides), Leetcode 51
+	- [ ] Sudoku
+	- [ ] Programming Challenge Problem 1
+	- [ ] Leetcode: 51, 1593
+- [ ] Graph Traversal
+	- [ ] BFS, shortest path
+	- [ ] DFS, four/two classes of edges
+	- [ ] Topological sorting
+	- [ ] Finding strong components (Topological Sorting)
+	- [ ] Leetcode: 1129
+- [ ] Min span tree & single source shortest path
+	- [ ] Know algorithms
+	- [ ] Time complexity
+	- [ ] Recursive algo SSSP on a DAG
+	- [ ] Singe source shortest -> single source longest
